@@ -16,6 +16,12 @@ function App() {
                       <h6 className="text-yellow">
                           contact us via email:info@weauxano.com
                       </h6>
+
+                      <br></br><br></br><br></br>
+
+                      <h6 className="text-yellow">
+                          By JerryWebman:jerrycifeanyi@gmail.com
+                      </h6>
                   </div>
               </div>
     </Container>
